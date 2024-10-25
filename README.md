@@ -5,7 +5,9 @@
 **Master of Science in**: Computer Science  
 **Thesis Author**: Mattia Piazzalunga  
 **Academic Year**: 2023/2024  
-**Supervisor**: Gabriella Pasi  
+**Supervisor**: Gabriella Pasi
+
+**For suggestions or bug reports**: Mattia Piazzalunga 
 
 ## Summary
 
