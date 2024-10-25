@@ -72,7 +72,7 @@ The thesis was written adhering to the principles of Open Science, a set of prac
 [^14]: Papineni, Kishore et al. *BLEU: a method for automatic evaluation of machine translation*. In: Proceedings of the 40th Annual Meeting on Association for Computational Linguistics. ACL, 2002.
 [^15]: Raffel, Colin et al. *Exploring the limits of transfer learning with a unified text-to-text transformer*. In: *Journal of Machine Learning Research*, 2020.
 [^16]: Reimers, Nils et al. *Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks*. In: CoRR, 2019.
-[^17]: Sharma et al. *Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach*. In: ACM, 2021.
+[^17]: Radford et al. *Language models are unsupervised multitask learners*, 2019.
 [^18]: We Are Social and Meltwater. *Digital 2024 Global Overview Report*, 2024.
 [^19]: Vaswani, Ashish et al. *Attention is all you need*. In: Curran Associates Inc., 2017.
 [^20]: Wolf, Thomas et al. *Transformers: State-of-the-Art Natural Language Processing*. In: ACL.
