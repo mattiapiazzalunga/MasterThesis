@@ -7,7 +7,7 @@
 **Academic Year**: 2023/2024  
 **Supervisor**: Gabriella Pasi
 
-**For suggestions or bug reports**: Mattia Piazzalunga 
+**For suggestions or bug reports**: mattiapiazzalunga@outlook.com
 
 ## Summary
 
