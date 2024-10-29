@@ -12,6 +12,7 @@
 ## Citation
 Please cite this thesis and the author uses this format:
 
+```bibtex
 @mastersthesis{piazzalunga2024masterthesis,
   author       = {Mattia Piazzalunga},
   title        = {An Investigation into Machine Learning Techniques},
@@ -22,7 +23,7 @@ Please cite this thesis and the author uses this format:
   type         = {Master's Thesis},
   note         = {Available at \url{https://github.com/mattiapiazzalunga/MasterThesis/tree/master}}
 }
-
+```
 ## Summary
 
 In 2023, the Digital News Report by the Reuters Institute for the Study of Journalism [^13] provided clear evidence of the crisis overwhelming the news market. The main reason is the public’s declining interest in staying informed, fueled by news agencies’ difficulties in transitioning to a digital media environment; a shift driven by younger generations who rely almost entirely on digital media for accessing content. However, if properly leveraged, these platforms can prove to be a strategic resource: social networks, in particular, are used by 93.2% of users according to the Digital 2024 Global Overview Report [^18], and 30% of people prefer staying informed through them, thanks to their more personalized and simplified approach to content sharing. In this landscape, research cannot remain indifferent: it must support the information market to help it embrace this media change.
