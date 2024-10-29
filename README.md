@@ -13,20 +13,13 @@
 Please cite this thesis and the author uses this format:
 
 @mastersthesis{piazzalunga2024masterthesis,
-
   author       = {Mattia Piazzalunga},
-
   title        = {An Investigation into Machine Learning Techniques},
-
   school       = {Bridging a GAP: Text Style Transfer from Journalistic to Conversational for Enhanced Social Media Dissemination of News},
-
   address      = {Piazza dell'Ateneo Nuovo, 1 - 20126, Milano, Italy},
-
   year         = 2024,
-
   month        = 10,
   type         = {Master's Thesis},
-
   note         = {Available at \url{https://github.com/mattiapiazzalunga/MasterThesis/tree/master}}
 }
 
